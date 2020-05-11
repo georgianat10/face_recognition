@@ -1,6 +1,6 @@
 # Face Recognition
 
-### Face recognition project using OpenCV library. Face detection side is using Viola Jones algorithm and the face recognition side is using machine learning.
+Face recognition project using OpenCV library. Face detection side is using Viola Jones algorithm and the face recognition side is using machine learning.
 
 ## Available Scripts
 ### Run in the src directory:
